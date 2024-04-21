@@ -10,6 +10,7 @@ public class ArrayListUsingAsList {
         // str.add("padmaksh");
 
         System.out.println("Arraylist is :"+ str);
+        System.out.println("Hello World");
     }
     
 }
