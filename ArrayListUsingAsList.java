@@ -11,6 +11,7 @@ public class ArrayListUsingAsList {
 
         System.out.println("Arraylist is :"+ str);
         System.out.println("Hello World");
+        System.out.println("Hello World");
     }
     
 }
